@@ -1,8 +1,4 @@
 Hola mundo
 Me llamo Enrique
-prueba
 
-Modifico el fichero en mi working directory
-
-Buenas
 
